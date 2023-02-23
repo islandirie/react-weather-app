@@ -2,6 +2,8 @@
 
 Created this project to learn how to use React as well as for an interview. In the process had to both learn React and build app, was given 1 week to complete. Met all requirements. This is the first complete version, for the sake of practice will try to improve it more from here.
 
+![Weather App Screenshot](weather-app-screenshot.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
