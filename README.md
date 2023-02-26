@@ -2,6 +2,10 @@
 
 Created this project to learn how to use React as well as for an interview. In the process had to both learn React and build app, was given 1 week to complete. Met all requirements. This is the first complete version, for the sake of practice will try to improve it more from here.
 
+I'm using the api from [open weather map](https://openweathermap.org). 1000 api calls per day for free version.
+
+I've added a sample config file [here](src/set_config.js), but you'll have to rename to 'config.js', add your api key, than everything should work.
+
 ![Weather App Screenshot](weather-app-screenshot.png)
 
 # Getting Started with Create React App
